@@ -16,7 +16,7 @@ const ProfilSection = () => (
           maîtrisant l'ensemble de la chaîne data : ingestion ETL, modélisation dimensionnelle,
           Machine Learning et Deep Learning (CNN, RNN, LSTM).
           Expérimenté en <strong className="text-steel font-medium">NLP, LLM et architectures RAG</strong> à travers le développement
-          d'un assistant IA en production. <strong className="text-steel font-medium">Certifié IBM Data Analyst</strong>, avec une maîtrise avancée de
+          d'un assistant IA en production. <strong className="text-steel font-medium">Certifié IBM Data Analyst</strong>, avec une maîtrise avancée de 
           <strong className="text-steel font-medium">Power BI</strong> pour la création de dashboards interactifs, le suivi de KPIs et le reporting décisionnel.
           Orienté impact métier avec une capacité à transformer
           des données complexes en décisions concrètes. Ouvert à tout poste Data.
