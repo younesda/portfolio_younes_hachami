@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { MapPin, Github, Linkedin, Mail, ChevronDown } from "lucide-react";
+import { MapPin, Github, Linkedin, Mail, ChevronDown, Download } from "lucide-react";
 import younesPhoto from "@/assets/younes-photo.jpeg";
 
 const HeroSection = () => {
@@ -61,7 +61,7 @@ const HeroSection = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8, duration: 0.6 }}
-            className="flex gap-3"
+            className="flex flex-wrap gap-3"
           >
             <a
               href="https://www.linkedin.com/in/younes-hachami"
@@ -78,6 +78,13 @@ const HeroSection = () => {
               className="flex items-center gap-2 px-5 py-2.5 bg-gold/15 border border-gold/30 rounded-full font-mono-code text-[11px] text-gold hover:bg-gold hover:text-ink transition-all duration-300"
             >
               <Github size={14} /> GitHub
+            </a>
+            <a
+              href="/Younes_Hachami_CV.pdf"
+              download
+              className="flex items-center gap-2 px-5 py-2.5 bg-gold border border-gold rounded-full font-mono-code text-[11px] text-ink font-medium hover:bg-gold-light transition-all duration-300"
+            >
+              <Download size={14} /> Télécharger CV
             </a>
           </motion.div>
         </div>
