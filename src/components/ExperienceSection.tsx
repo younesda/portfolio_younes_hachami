@@ -104,8 +104,11 @@ const ExperienceSection = () => (
         <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-2 mb-4">
           <div>
             <h3 className="font-display text-lg font-bold text-steel">Data Engineer / BI Analyst</h3>
-            <p className="text-gold text-sm font-medium mt-1">Expérience professionnelle antérieure</p>
+            <p className="text-gold text-sm font-medium mt-1">SEN'EAU — Société nationale des Eaux du Sénégal</p>
           </div>
+          <span className="font-mono-code text-[10px] text-smoke bg-paper border border-border px-3 py-1 rounded-full whitespace-nowrap self-start">
+            Janv. 2025 – Janv. 2026 · 1 an
+          </span>
         </div>
         <ul className="flex flex-col gap-3 mt-3">
           {[
