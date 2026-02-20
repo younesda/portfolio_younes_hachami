@@ -111,7 +111,7 @@ const SkillsSection = () => (
         <div className="grid sm:grid-cols-3 gap-6">
           {[
             { name: "Français", level: 5 },
-            { name: "Arabe", level: 5 },
+            { name: "Wolof", level: 5 },
             { name: "Anglais", level: 3 },
           ].map((lang) => (
             <motion.div
