@@ -58,7 +58,7 @@ const ExperienceSection = () => (
             <p className="text-gold text-sm font-medium mt-1">SEN'EAU — Société nationale des Eaux du Sénégal</p>
           </div>
           <span className="font-mono-code text-[10px] text-smoke bg-paper border border-border px-3 py-1 rounded-full whitespace-nowrap self-start">
-            Janv. 2026 – Mars 2026 · 1 an
+            Janv. 2026 – Mars 2026 · 3 mois
           </span>
         </div>
 
