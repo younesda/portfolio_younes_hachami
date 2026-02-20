@@ -61,7 +61,7 @@ const ContactSection = () => (
     {/* Footer */}
     <div className="mt-16 text-center">
       <p className="font-mono-code text-[10px] text-mist/40 tracking-widest">
-        © 2025 Younes Hachami — Tous droits réservés
+        © 2026 Younes Hachami — Tous droits réservés
       </p>
     </div>
   </section>
