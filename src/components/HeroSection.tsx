@@ -81,7 +81,9 @@ const HeroSection = () => {
             </a>
             <a
               href="/Younes_Hachami_CV.pdf"
-              download
+              download="Younes_Hachami_CV.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 bg-gold border border-gold rounded-full font-mono-code text-[11px] text-ink font-medium hover:bg-gold-light transition-all duration-300"
             >
               <Download size={14} /> Télécharger CV
