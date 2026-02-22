@@ -6,13 +6,13 @@ const projects = [
   {
     title: "Sphere Office",
     description: "Application web de gestion d'entreprise et d'espace de travail collaboratif.",
-    url: "https://sphere-office.lovable.app",
+    url: "https://sphereoffice92.com",
     tags: ["Web App", "React", "Gestion"],
   },
   {
     title: "Cissene Shop",
     description: "Plateforme e-commerce premium au Sénégal avec catalogue produits et paiement intégré.",
-    url: "https://cissene-shop.lovable.app",
+    url: "https://cisseneshop.com",
     tags: ["E-commerce", "React", "Premium"],
   },
 ];
